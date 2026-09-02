@@ -9,7 +9,7 @@
  * Al ejecutar primero y luego evaluar
  * te permite tener una ejecución grantizada
  * 
- * --contraseñas (ejemplos) a la tercera se bloquea
+ * --contraseñas (ejemplos) a la tercera se bloquea // o INTENTOS 
  * 
  * 
  * !Necesita un contador externo
