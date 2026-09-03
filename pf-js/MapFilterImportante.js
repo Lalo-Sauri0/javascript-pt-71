@@ -1,4 +1,4 @@
-const numeros = 
+const numeros =  //CALLBACKS Y ARRAYS
 [ 
     
     42, 7, 91, 18, 63, 25, 84, 3, 56, 71, 12, 97, 34, 68, 9, 45, 77, 21, 60, 5, 88, 31, 14, 73, 49, 2, 

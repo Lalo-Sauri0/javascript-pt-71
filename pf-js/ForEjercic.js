@@ -39,14 +39,14 @@ Solicita al usuario un número entero. El programa debe mostrar la tabla de mult
 
 // Number y prompt puedes meterles numeros
 // console.log(`Dame un numero de`);
-let N = Number(prompt ("Ingresa un número entero"));
+let N = Number(prompt ("Ingresa un número entero"));  /// parsint
 //Genera la condición o tabla
 for (let i = 1; i<=10; i++) // i es 1 | i se para hasta el 10, y va de aumento i++
  // for te dice basicamente todo  // no tiene ; el for
 
  {
 
-   console.log(`La multiplicacion de : ${N} x ${i} =  ${N * i}`);
+   console.log(`La multiplicacion de : ${N} x ${i} =  ${N * i}`);  /// hace la multiplicación
 
 
  }

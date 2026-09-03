@@ -24,7 +24,7 @@ function saludarConNombre(nombre, edad){
 }
 
 
-//pasando argumentos a una función 
+//pasando argumentos a una función o usando parametros
 
 saludarConNombre("Jose", 32);
 saludarConNombre("Liz", 27);
